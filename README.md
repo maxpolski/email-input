@@ -4,6 +4,7 @@
 - make responsive markup (now it should look good on most of the screens but not on mobile)
 - split code to components
 - make markup more semantic
+- add filtering that eliminates invalid email addresses when input will be submitted
 
 ## Available Scripts
 
